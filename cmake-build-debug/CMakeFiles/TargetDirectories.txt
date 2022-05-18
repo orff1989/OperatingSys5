@@ -1,0 +1,3 @@
+/home/or/CLionProjects/OperatingSys5/cmake-build-debug/CMakeFiles/OperatingSys5.dir
+/home/or/CLionProjects/OperatingSys5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/or/CLionProjects/OperatingSys5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
